@@ -1,0 +1,19 @@
+
+---
+
+## 🧾 `STUDENT.txt`
+
+```txt
+Nama: Tariska Debby Amelia
+Email: tariskadebbyy@gmail.com
+Akun Dicoding: Tariska Debby Amelia
+
+API yang digunakan: https://story-api.dicoding.dev/v1
+
+API Key Peta: (tidak diperlukan / gunakan akses publik Leaflet)
+
+Fitur Tambahan:
+- Kamera aktif untuk ambil gambar
+- Klik di peta untuk ambil lokasi
+- View Transition API
+- Aksesibilitas sesuai standar (skip to content, alt teks, label form, semantic HTML)
