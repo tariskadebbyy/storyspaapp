@@ -17,3 +17,5 @@ Fitur Tambahan:
 - Klik di peta untuk ambil lokasi
 - View Transition API
 - Aksesibilitas sesuai standar (skip to content, alt teks, label form, semantic HTML)
+
+APP_URL=https://tariskadebbyy.github.io/project_dicoding/
